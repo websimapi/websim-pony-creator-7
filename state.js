@@ -42,6 +42,25 @@ export const state = {
                 "y": 0.3715,
                 "rotation": 0,
                 "scale": 1
+            },
+            // Added horn calibration for white base pony
+            "horn_blue.png": {
+                "x": 0.3287,
+                "y": 0.1586,
+                "rotation": 0,
+                "scale": 1
+            },
+            "horn_gold.png": {
+                "x": 0.4122,
+                "y": 0.1715,
+                "rotation": 0,
+                "scale": 0.75
+            },
+            "horn.png": {
+                "x": 0.3636,
+                "y": 0.1447,
+                "rotation": 0,
+                "scale": 0.71
             }
         }
     },
